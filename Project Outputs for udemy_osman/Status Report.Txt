@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [udemy_osman.PrjPcb]
+   Generated File[udemy_osman-RoundHoles.TXT]
+   Generated File[udemy_osman-SlotHoles.TXT]
+   Generated File[udemy_osman.LDP]
+   Generated File[udemy_osman.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:22:00 On 16.06.2024
