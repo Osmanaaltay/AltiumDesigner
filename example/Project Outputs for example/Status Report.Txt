@@ -1,0 +1,37 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [example.PrjPcb]
+   Generated File[PCB1.GTO]
+   Generated File[PCB1.GTP]
+   Generated File[PCB1.GTS]
+   Generated File[PCB1.GTL]
+   Generated File[PCB1.GBL]
+   Generated File[PCB1.GBS]
+   Generated File[PCB1.GBP]
+   Generated File[PCB1.GBO]
+   Generated File[PCB1.GM1]
+   Generated File[PCB1.GM2]
+   Generated File[PCB1.GM3]
+   Generated File[PCB1.GM4]
+   Generated File[PCB1.GM5]
+   Generated File[PCB1.GM6]
+   Generated File[PCB1.GM7]
+   Generated File[PCB1.GM8]
+   Generated File[PCB1.GM9]
+   Generated File[PCB1.GM10]
+   Generated File[PCB1.GM11]
+   Generated File[PCB1.GM13]
+   Generated File[PCB1.GKO]
+   Generated File[PCB1.GML]
+   Generated File[PCB1.1]
+   Generated File[PCB1.GD1]
+   Generated File[PCB1.GG1]
+   Generated File[PCB1.GM]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 28
+Documents Printed : 0
+
+Finished Output Generation At 11:49:01 On 20.08.2024

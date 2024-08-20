@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=J1 Old Footprint=USB4510-03-1-A New Footprint=USB4105-GF-A-060
+Change Component Comment : Designator=J1 Old Comment=USB4510-03-1-A New Comment=USB4105-GF-A-060
+Change component parameters: Designator = "J1" ("J1"); Footprint = "USB4510-03-1-A"; UniqueID = "\UKJYKGQA" ("\UKJYKGQA")
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = "https://eu.mouser.com/ProductDetail/GCT/USB4105-GF-A-060?qs=QNEnbhJQKvY2mocwNJzgfA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
