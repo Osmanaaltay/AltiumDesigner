@@ -1,0 +1,19 @@
+Net Status Report
+Filename     : C:\Users\Public\Documents\Altium\Battery_Charge\PCB1.PcbDoc
+Date         : 2.04.2025
+Time         : 20:36:12
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    *CHG, Signal Layers Only, 232.177mils
+    *PPR, Signal Layers Only, 242.177mils
+    +5V, Signal Layers Only, 1183.263mils
+    Battery, Signal Layers Only, 0mils
+    CC1, Signal Layers Only, 81.495mils
+    CC2, Signal Layers Only, 76.896mils
+    GND, Signal Layers Only, 28.569mils
+    IMIN, Signal Layers Only, 204.741mils
+    IREF, Signal Layers Only, 199.426mils
+    NetD1_2, Signal Layers Only, 0mils
+    NetD2_2, Signal Layers Only, 0mils
+count : 11
